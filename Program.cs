@@ -10,3 +10,7 @@ Console.WriteLine($"Operating System: {operatingSystem.Name}");
 factory = new MacOSFactory();
 operatingSystem = factory.CreateOperatingSystem();
 Console.WriteLine($"operatingSystem: {operatingSystem.Name}");
+
+factory = new LinuxFactory();
+operatingSystem = factory.CreateOperatingSystem();
+Console.Write($"operatingSystem: {operatingSystem.Name}");

@@ -12,3 +12,4 @@ D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\refint\EjemAbsFac.dll
 D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\EjemAbsFac.pdb
 D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\EjemAbsFac.genruntimeconfig.cache
 D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\ref\EjemAbsFac.dll
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\EjemAbsFac.sourcelink.json
