@@ -1,0 +1,14 @@
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\bin\Debug\net8.0\EjemAbsFac.exe
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\bin\Debug\net8.0\EjemAbsFac.deps.json
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\bin\Debug\net8.0\EjemAbsFac.runtimeconfig.json
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\bin\Debug\net8.0\EjemAbsFac.dll
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\bin\Debug\net8.0\EjemAbsFac.pdb
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\EjemAbsFac.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\EjemAbsFac.AssemblyInfoInputs.cache
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\EjemAbsFac.AssemblyInfo.cs
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\EjemAbsFac.csproj.CoreCompileInputs.cache
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\EjemAbsFac.dll
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\refint\EjemAbsFac.dll
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\EjemAbsFac.pdb
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\EjemAbsFac.genruntimeconfig.cache
+D:\ProyectosCsharp\AbsFac\EjemAbsFac\obj\Debug\net8.0\ref\EjemAbsFac.dll
